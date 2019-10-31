@@ -16,3 +16,4 @@ Durante a execução desse projeto foram utilizados os seguintes pacotes/program
   - Redis
   - Bee Queue
   - Sentry
+  - Handlebars
