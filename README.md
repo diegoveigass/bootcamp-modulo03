@@ -1,4 +1,4 @@
-# bootcamp-modulo02
+# bootcamp-modulo03
 GoBarber - backend - Node.JS
 
 
@@ -10,3 +10,9 @@ Durante a execução desse projeto foram utilizados os seguintes pacotes/program
   - ESLint, Prettier
   - JWT
   - Middlewares
+  - Multer
+  - MongoDB
+  - Nodemailer
+  - Redis
+  - Bee Queue
+  - Sentry
